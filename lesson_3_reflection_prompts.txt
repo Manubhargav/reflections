@@ -7,12 +7,17 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Same reason as Manual-saving option. It offers flexibility and User can commit,
+    after a logical change not mid-way or after too many logical changes that could
+    occur in case of Automatic Git pull.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Fork helps in cloning a repo already existing on Github.
+    Cloning helps in many ways, usually after forking someone's else's repo.
+    Branches helps in adding a new feature without the fear of breaking the whole 
+    project.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
